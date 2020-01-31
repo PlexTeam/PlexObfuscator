@@ -2,7 +2,7 @@
 
 #### Our first Java bytecode Obfuscator
 
-#####_This Obfuscator is still under development, so we recommend using Obfuscator on Basic Applications._
+_This Obfuscator is still under development, so we recommend using Obfuscator on Basic Applications._
 
 ## Features
  - NumberObfuscation (Non completed)
